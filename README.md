@@ -24,5 +24,5 @@ This repository contains all the code regarding House Price Prediction. It conta
  19  sqft_living15  21613 non-null  int64   </br>
  20  sqft_lot15     21613 non-null  int64   </br> </br>
  
- 
+I performed various feature engineering techniques, one-hot encoding and binning to evaluate various models and enhance R2. The final model had an R2 of 0.83 and an MAPE of 0.176 on test set.
 
